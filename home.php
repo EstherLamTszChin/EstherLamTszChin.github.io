@@ -12,18 +12,12 @@ echo$_GET['name'] ?>!
 
 
     I am Esther. <br/><br/>
-
-    I double majored Computer Science and Math in BYUH. 
-    I enjoy problem solving.
+This is php
     
     
     <br/><br/>
 
-    Interest:
-
-    Hiking
-    Piano
-    Tutoring
+ 
 
     
 </p>

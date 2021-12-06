@@ -29,7 +29,7 @@ function printHeader($title) {?>
         </header>
         <nav id="border">
             <a href="home.php">Home</a> <a href="project.php">Projects</a> 
-            <a href="members.php">Academic</a> <a href="final.php">Work Experience </a> <a href="final.php">Contract Me </a>
+            <a href="members.php">Academic</a> <a href="final.php">Work Experience </a> <a href="final.php"> Contract Me </a>
         </nav>
         
     <?php
