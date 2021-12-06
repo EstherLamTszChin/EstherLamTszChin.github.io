@@ -11,12 +11,21 @@ Aloha
 echo$_GET['name'] ?>! 
 
 
-    I am Esther from Hong Kong. <br/><br/>
+    I am Esther. <br/><br/>
 
-    This is my second last semester here. I am blessed to study in Math and Computer Science in BYUH! 
-    Although I haven't meet you in person, but I hope to get to know each of you more this semester :)<br/><br/>
+    I double majored Computer Science and Math in BYUH. 
+    I enjoy problem solving.
+    
+    
+    <br/><br/>
 
-     Here is a list of links of website I often visit. 
+    Interest:
+
+    Hiking
+    Piano
+    Tutoring
+
+    
 </p>
 
 
