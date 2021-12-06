@@ -1,0 +1,46 @@
+body{
+    background-color:blanchedalmond;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+}
+
+#common{
+    font-family:cursive   
+}
+
+#italic{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic; 
+}
+
+#border{
+    border-style: dotted;
+    border-width: 5px;
+    font-size:30px;
+    border-color: chocolate;
+    font-stretch: expanded;
+}
+#warning{
+    color: red;
+}
+
+.margin{
+    width: 20px;
+    margin: auto;
+    
+}
+
+a.two:link,a.two:visited{
+    background-color:lightskyblue;
+    color:darkslategray;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: darkslategray;
+    display: inline-block;
+}
+.form_label{
+    color: red;
+}
