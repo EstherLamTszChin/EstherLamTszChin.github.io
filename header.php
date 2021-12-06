@@ -28,7 +28,8 @@ function printHeader($title) {?>
             <h1>Esther Lam</h1>
         </header>
         <nav id="border">
-            <a href="portfolioPage.php">Main</a> <a href="portfolioSecondPage.php">Register Page</a> <a href="members.php">Member</a> <a href="final.php">Answer to Assignment </a>
+            <a href="home.php">Home</a> <a href="project.php">Projects</a> 
+            <a href="members.php">Academic</a> <a href="final.php">Work Experience </a> <a href="final.php">Contract Me </a>
         </nav>
         
     <?php
