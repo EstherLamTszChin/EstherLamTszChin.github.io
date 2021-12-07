@@ -47,9 +47,10 @@ a.two:link,a.two:visited{
 
 
 #picture{
-    margin: 0;
-    margin-top: 2%;
-    margin-bottom: 8%;
+    display: flex;
+
+
+    justify-content: center;
     
 
 }
