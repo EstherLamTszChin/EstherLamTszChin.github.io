@@ -49,6 +49,13 @@ a.two:link,a.two:visited{
 #picture{
 
     justify-content: center;
-    
+    margin: auto;
 
+}
+div{
+   width: auto; 
+}
+section{
+    display: flex;
+    flex-direction: row;
 }
