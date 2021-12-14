@@ -55,7 +55,7 @@ a.two:link,a.two:visited{
 div{
    width: auto; 
 }
-section{
+#academic{
     display: flex;
     flex-direction: row;
 }
